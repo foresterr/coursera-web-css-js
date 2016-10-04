@@ -1,0 +1,43 @@
+.navbar {
+  border-radius: 0;
+  background-color: #aaa;
+  border: 1px solid black;
+}
+.navbar-nav {
+  margin: 0 -15px 0;
+}
+.navbar-default .navbar-collapse {
+  border: none;
+}
+.navbar-default .navbar-toggle {
+  border-color: black;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: black;
+}
+.navbar-default .navbar-nav>li>a {
+  color: black;
+  border-top: 1px solid black;
+}
+.navbar-default .navbar-nav>li>a:hover {
+  color: black;
+  background-color: #ccc;
+}
+.navbar-brand {
+  height: auto;
+  font-size: 1.8em;
+}
+h1 {
+  margin: 0;
+  font-size: 1em;
+  color: black;
+}
+
+.menu .menu-item {
+  background-color: #ccc;
+}
+
+.menu-item-title {
+  font-weight: bold;
+  margin-top: 10px;
+}
