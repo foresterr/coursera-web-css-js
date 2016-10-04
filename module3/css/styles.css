@@ -32,12 +32,18 @@ h1 {
   font-size: 1em;
   color: black;
 }
-
+h2 {
+  margin-bottom: 15px;
+}
 .menu .menu-item {
+  padding: 1em;
+}
+.menu .menu-item .inner {
+  padding: 1em 2em;
   background-color: #ccc;
 }
 
-.menu-item-title {
+h3.menu-item-title {
   font-weight: bold;
   margin-top: 10px;
 }
